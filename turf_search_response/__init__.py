@@ -37,9 +37,12 @@ def search_response():
             print(data)
             data=pd.DataFrame(data)
             print(data)
-            data.to_csv('../turf_details.csv')  
+            data=data.fillna(0.0)
+            current_dir = os.path.dirname(os.path.abspath(__file__))
+            model_path = os.path.join(current_dir, '../turf_details.csv')
+            data.to_csv(model_path)  
         # user_input = "Golden Turf Gardens"
-        df=pd.read_csv('../turf_details.csv')
+        df=pd.read_csv('../turf_details.csv').fillna(0.0)
         matches = process.extract(user_input,list(df.name) )
         print(matches)
 
@@ -64,10 +67,9 @@ def search_response():
 
             return list_2
         else:
-            return "No similar turfs found."
+            return []
     except:
-        return "No similar turfs found"
+        return []
 
 if __name__ == '__main__':
     app.run(debug=True) 
-

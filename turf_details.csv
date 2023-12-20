@@ -1,7 +1,32 @@
 ,id,amenity,name,location,price,image,description,latitude,longitude,ai_rating
-0,4,[],turf 4,location 3,1200.0,http://13.126.57.93:8000/media/image/download_5_ceQiLVl.jpg,description 3,0.0,0.0,
-1,5,[1],Sparta Arena,"Oruvathilkotta, calicut",1200.0,http://13.126.57.93:8000/media/image/download_5_EoqGNX0.jpg,Sparta Arena hosts a lot of semi-professional games. It also has cricket and beach volleyball facilities in the complex.,11.2501,75.7804,
-2,6,[2],Sporthood Turfpark,Edappally,1400.0,http://13.126.57.93:8000/media/image/download_5_mpMcLkw.jpg,Sporthood Turfpark can simultaneously host 7-a-side and 5-a-side games. It is close to the biggest shopping mall in Kerala and has great access from the city’s arterial roads.,11.2642,75.7788,
-3,7,[3],Parkway,Kalamassery,1400.0,http://13.126.57.93:8000/media/image/download_5_nsLCdGC.jpg,Parkway is a multi-sport centre and a popular gathering place for sports enthusiasts in the city,11.2667,75.7667,
-4,8,[3],Parkway,Kalamassery,1400.0,http://13.126.57.93:8000/media/image/download_5_Ib5Ch8h.jpg,Parkway is a multi-sport centre and a popular gathering place for sports enthusiasts in the city,11.2667,75.7667,
-5,9,[3],Parkway,Kalamassery,1400.0,http://13.126.57.93:8000/media/image/download_5_3V0mSjk.jpg,Parkway is a multi-sport centre and a popular gathering place for sports enthusiasts in the city,11.2667,75.7667,
+0,218,[1],TurfTender Elegance,Calicut,1200.0,http://13.126.57.93:8000/media/image/TURF.jpg,"TurfTender Elegance is a premium lawn care and landscaping service that embodies sophistication and excellence. Dedicated to providing unparalleled turf solutions, TurfTender Elegance takes pride in delivering meticulous care to transform outdoor spaces i",0.0,0.0,0.0
+1,219,[1],ANFIELD,Calicut,1000.0,http://13.126.57.93:8000/media/image/Maskgroup.png,This is a beutifull turf,75.0,24.0,0.0
+2,70,[],Meadow Sunshine Oasis,SPORTZAP(shadimk),1480.0,http://13.126.57.93:8000/media/image/1_TPZO1QF.jpg,Worldclass Turf,0.0,0.0,0.0
+3,201,[1],Celestial Harmony Turf,SPORTZAP(shadimk),1200.0,http://13.126.57.93:8000/media/image/2022-12-25.png,Worldclass Turf,0.0,0.0,0.0
+4,200,[],Moonlit Lush Gardens,SPORTZAP(shadimk),2780.0,http://13.126.57.93:8000/media/image/1_TPZO1QF.jpg,Worldclass Turf,0.0,0.0,0.0
+5,199,[],Tranquil Oasis Haven,SPORTZAP(shadimk),2770.0,http://13.126.57.93:8000/media/image/Soccer_Poses_VMmQYOB.jpg,Worldclass Turf,0.0,0.0,0.0
+6,198,[],Starlight Turf Courts,SPORTZAP(shadimk),2760.0,http://13.126.57.93:8000/media/image/Lionel_Messi_desktop_wallpaper_by_F-EDITS_on_DeviantArt.jpg,Worldclass Turf,0.0,0.0,0.0
+7,197,[],Enchanted Greens Symphony,SPORTZAP(shadimk),2750.0,http://13.126.57.93:8000/media/image/2022-12-25.png,Worldclass Turf,0.0,0.0,0.0
+8,196,[],Whispering Wind Retreat,SPORTZAP(shadimk),2740.0,http://13.126.57.93:8000/media/image/1_TPZO1QF.jpg,Worldclass Turf,0.0,0.0,0.0
+9,194,[],Harmony Oasis Fields,SPORTZAP(shadimk),2720.0,http://13.126.57.93:8000/media/image/Lionel_Messi_desktop_wallpaper_by_F-EDITS_on_DeviantArt.jpg,Worldclass Turf,0.0,0.0,0.0
+10,195,[],Twilight Turf Escape,SPORTZAP(shadimk),2710.0,http://13.126.57.93:8000/media/image/Soccer_Poses_VMmQYOB.jpg,Worldclass Turf,0.0,0.0,0.0
+11,192,[],Velvet Sky Serenity Gardens,SPORTZAP(shadimk),2700.0,http://13.126.57.93:8000/media/image/Lionel_Messi_desktop_wallpaper_by_F-EDITS_on_DeviantArt.jpg,Worldclass Turf,0.0,0.0,0.0
+12,191,[],Celestial Radiance Oasis,SPORTZAP(shadimk),2690.0,http://13.126.57.93:8000/media/image/2022-12-25.png,Worldclass Turf,0.0,0.0,0.0
+13,190,[],Mystic Meadow Haven,SPORTZAP(shadimk),2680.0,http://13.126.57.93:8000/media/image/1_TPZO1QF.jpg,Worldclass Turf,0.0,0.0,0.0
+14,69,[],Grassy Serenity Courts,SPORTZAP(shadimk),1470.0,http://13.126.57.93:8000/media/image/Soccer_Poses_VMmQYOB.jpg,Worldclass Turf,0.0,0.0,0.0
+15,68,[],Green Turf Delight,SPORTZAP(shadimk),1460.0,http://13.126.57.93:8000/media/image/Lionel_Messi_desktop_wallpaper_by_F-EDITS_on_DeviantArt.jpg,Worldclass Turf,0.0,0.0,0.0
+16,67,[],Joyful Playfield Haven,SPORTZAP(shadimk),1450.0,http://13.126.57.93:8000/media/image/Soccer_Poses_VMmQYOB.jpg,Worldclass Turf,0.0,0.0,0.0
+17,66,[],Turf Breezy Fields,SPORTZAP(shadimk),1440.0,http://13.126.57.93:8000/media/image/Lionel_Messi_desktop_wallpaper_by_F-EDITS_on_DeviantArt.jpg,Worldclass Turf,0.0,0.0,0.0
+18,64,[],Golden Haven Arena,SPORTZAP(shadimk),1420.0,http://13.126.57.93:8000/media/image/1_TPZO1QF.jpg,Worldclass Turf,0.0,0.0,0.0
+19,65,[],Turf Retreat Gardens,SPORTZAP(shadimk),1410.0,http://13.126.57.93:8000/media/image/Soccer_Poses_VMmQYOB.jpg,Worldclass Turf,0.0,0.0,0.0
+20,62,[],Blissful Sun Courts,SPORTZAP(shadimk),1400.0,http://13.126.57.93:8000/media/image/Lionel_Messi_desktop_wallpaper_by_F-EDITS_on_DeviantArt.jpg,Worldclass Turf,0.0,0.0,0.0
+21,61,[],Radiant Green Fields,SPORTZAP(shadimk),1590.0,http://13.126.57.93:8000/media/image/2022-12-25.png,Worldclass Turf,0.0,0.0,0.0
+22,60,[],Turf Serenity Oasis,SPORTZAP(shadimk),1580.0,http://13.126.57.93:8000/media/image/1_TPZO1QF.jpg,Worldclass Turf,0.0,0.0,0.0
+23,59,[],Nature's Turf Symphony,SPORTZAP(shadimk),1570.0,http://13.126.57.93:8000/media/image/Soccer_Poses_VMmQYOB.jpg,Worldclass Turf,0.0,0.0,0.0
+24,49,[],Sunlit Bliss Courts,SPORTZAP(shadimk),1270.0,http://13.126.57.93:8000/media/image/Soccer_Poses_VMmQYOB.jpg,Worldclass Turf,0.0,0.0,0.0
+25,48,[],Turf Radiance Park,SPORTZAP(shadimk),1260.0,http://13.126.57.93:8000/media/image/Lionel_Messi_desktop_wallpaper_by_F-EDITS_on_DeviantArt.jpg,Worldclass Turf,0.0,0.0,0.0
+26,47,[],Meadow Haven Retreat,SPORTZAP(shadimk),1250.0,http://13.126.57.93:8000/media/image/2022-12-25.png,Worldclass Turf,0.0,0.0,0.0
+27,46,[],Turf Breeze Gardens,SPORTZAP(shadimk),1240.0,http://13.126.57.93:8000/media/image/1_TPZO1QF.jpg,Worldclass Turf,0.0,0.0,0.0
+28,44,[],Meadow Serenity Courts,SPORTZAP(shadimk),1220.0,http://13.126.57.93:8000/media/image/Lionel_Messi_desktop_wallpaper_by_F-EDITS_on_DeviantArt.jpg,Worldclass Turf,0.0,0.0,0.0
+29,45,[],Blissful Turf Haven,SPORTZAP(shadimk),1210.0,http://13.126.57.93:8000/media/image/2022-12-25.png,Worldclass Turf,0.0,0.0,0.0
+30,42,[],Sunshine Oasis Fields,SPORTZAP(shadimk),1200.0,http://13.126.57.93:8000/media/image/1_TPZO1QF.jpg,Worldclass Turf,0.0,0.0,0.0
